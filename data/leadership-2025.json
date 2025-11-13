@@ -1,0 +1,334 @@
+{
+  "year": 2025,
+  "executives": [
+    {
+      "id": "pres-2025",
+      "name": "Chukwuemeka Okafor",
+      "position": "President",
+      "photo": "/placeholder.svg?height=400&width=400",
+      "level": "400 Level",
+      "department": "Computer Science",
+      "shortBio": "Leading BUCC's vision to become Africa's premier student tech community.",
+      "fullBio": "Chukwuemeka has been with BUCC since his first year, rising through the ranks from a curious freshman to President. His vision is to transform BUCC into the gold standard for student-led innovation across Africa. Under his leadership, BUCC has launched 5 new products, partnered with 10+ companies, and grown membership by 40%.",
+      "achievements": [
+        "Secured partnerships with Google, Microsoft, and Flutterwave",
+        "Launched BUCC's Annual Hackathon with 200+ participants",
+        "Grew active membership from 350 to 500+",
+        "Established mentorship program connecting students with industry professionals",
+        "Led development of 3 campus-wide solutions used by 2000+ students"
+      ],
+      "currentProjects": [
+        "BUCC Fellowship Program",
+        "Pan-African Student Tech Summit 2025",
+        "Industry Partnership Expansion"
+      ],
+      "askMeAbout": [
+        "Leadership & team building",
+        "Product management",
+        "Fundraising & partnerships",
+        "Building technical communities"
+      ],
+      "contact": {
+        "email": "president@bucc.club",
+        "linkedin": "https://linkedin.com/in/example",
+        "twitter": "https://twitter.com/example"
+      }
+    },
+    {
+      "id": "vp-2025",
+      "name": "Aisha Bello",
+      "position": "Vice President",
+      "photo": "/placeholder.svg?height=400&width=400",
+      "level": "300 Level",
+      "department": "Software Engineering",
+      "shortBio": "Coordinating operations and ensuring every member has a path to excellence.",
+      "fullBio": "Aisha joined BUCC as a 100-level student with zero coding experience. Today, she's one of the most skilled full-stack developers on campus and manages the day-to-day operations of a 500+ member organization. Her focus is on operational excellence and member development.",
+      "achievements": [
+        "Restructured internal operations for 2x efficiency",
+        "Created onboarding program with 95% retention rate",
+        "Led team that built BUCC's member management system",
+        "Mentored 50+ students from zero to deployment"
+      ],
+      "currentProjects": [
+        "Operations automation system",
+        "Member skill tracking platform",
+        "Workshop curriculum redesign"
+      ],
+      "askMeAbout": [
+        "Full-stack development",
+        "Operations & process optimization",
+        "Going from beginner to pro",
+        "Work-life balance in tech"
+      ],
+      "contact": {
+        "email": "vp@bucc.club",
+        "linkedin": "https://linkedin.com/in/example",
+        "twitter": "https://twitter.com/example"
+      }
+    },
+    {
+      "id": "gs-2025",
+      "name": "David Adeleke",
+      "position": "General Secretary",
+      "photo": "/placeholder.svg?height=400&width=400",
+      "level": "300 Level",
+      "department": "Information Technology",
+      "shortBio": "Managing communications and keeping the organization running smoothly.",
+      "fullBio": "David is the glue that holds BUCC together. From managing meeting minutes to coordinating between 15+ committees, he ensures nothing falls through the cracks. His attention to detail and organizational skills are legendary.",
+      "achievements": [
+        "Digitized all organizational processes",
+        "Reduced meeting times by 40% through better preparation",
+        "Created comprehensive documentation system",
+        "Improved inter-committee communication"
+      ],
+      "currentProjects": [
+        "Knowledge base development",
+        "Internal communication platform",
+        "Historical archive digitization"
+      ],
+      "askMeAbout": [
+        "Organization & productivity",
+        "Technical writing",
+        "Documentation best practices",
+        "Project management tools"
+      ],
+      "contact": {
+        "email": "secretary@bucc.club",
+        "linkedin": "https://linkedin.com/in/example",
+        "twitter": "https://twitter.com/example"
+      }
+    },
+    {
+      "id": "treasurer-2025",
+      "name": "Ngozi Okonkwo",
+      "position": "Treasurer",
+      "photo": "/placeholder.svg?height=400&width=400",
+      "level": "400 Level",
+      "department": "Computer Science",
+      "shortBio": "Managing finances and ensuring fiscal responsibility.",
+      "fullBio": "Ngozi combines her love for technology with sharp financial acumen. She's transformed BUCC's financial operations, implementing transparent tracking systems and securing funding for major initiatives.",
+      "achievements": [
+        "Raised ₦2.5M in sponsorships",
+        "Built automated financial tracking system",
+        "Achieved 100% budget transparency",
+        "Secured funding for 20+ major events"
+      ],
+      "currentProjects": [
+        "Sponsorship pipeline expansion",
+        "Financial literacy workshops for members",
+        "Scholarship fund establishment"
+      ],
+      "askMeAbout": [
+        "Fundraising strategies",
+        "Financial management for tech communities",
+        "Sponsorship negotiations",
+        "FinTech development"
+      ],
+      "contact": {
+        "email": "treasurer@bucc.club",
+        "linkedin": "https://linkedin.com/in/example",
+        "twitter": "https://twitter.com/example"
+      }
+    },
+    {
+      "id": "dot-2025",
+      "name": "Oluwaseun Adebayo",
+      "position": "Director of Technology",
+      "photo": "/placeholder.svg?height=400&width=400",
+      "level": "400 Level",
+      "department": "Software Engineering",
+      "shortBio": "Leading BUCC's technical teams and building products that matter.",
+      "fullBio": "Seun is the technical backbone of BUCC. He leads a team of 30+ developers building real products used by thousands of students. His philosophy: ship fast, iterate faster, never stop learning.",
+      "achievements": [
+        "Led development of 5 production applications",
+        "Established code review and CI/CD processes",
+        "Mentored 40+ junior developers",
+        "Products serving 5000+ users across campus"
+      ],
+      "currentProjects": [
+        "BUCC mobile app",
+        "Campus marketplace platform",
+        "Technical workshop series"
+      ],
+      "askMeAbout": [
+        "Full-stack architecture",
+        "Team leadership in tech",
+        "DevOps & deployment",
+        "Open source contribution"
+      ],
+      "contact": {
+        "email": "tech@bucc.club",
+        "linkedin": "https://linkedin.com/in/example",
+        "twitter": "https://twitter.com/example"
+      }
+    },
+    {
+      "id": "doe-2025",
+      "name": "Funmilayo Adeyemi",
+      "position": "Director of Events",
+      "photo": "/placeholder.svg?height=400&width=400",
+      "level": "300 Level",
+      "department": "Computer Science",
+      "shortBio": "Orchestrating 50+ events annually that bring the tech community together.",
+      "fullBio": "Funmi turns ideas into unforgettable experiences. From intimate workshops to 200-person hackathons, she ensures every BUCC event runs flawlessly and delivers maximum value to attendees.",
+      "achievements": [
+        "Organized BUCC's largest hackathon (200+ participants)",
+        "Managed 50+ events with 98% satisfaction rate",
+        "Secured high-profile speakers from Google, Meta, Andela",
+        "Created replicable event playbooks"
+      ],
+      "currentProjects": [
+        "Annual Tech Conference 2025",
+        "Monthly Workshop Series",
+        "Industry networking nights"
+      ],
+      "askMeAbout": [
+        "Event planning & logistics",
+        "Speaker recruitment",
+        "Sponsorship activation",
+        "Community engagement"
+      ],
+      "contact": {
+        "email": "events@bucc.club",
+        "linkedin": "https://linkedin.com/in/example",
+        "twitter": "https://twitter.com/example"
+      }
+    }
+  ],
+  "senators": {
+    "100": [
+      {
+        "id": "sen-100-cr",
+        "name": "Chidinma Nwosu",
+        "position": "Class Representative",
+        "department": "100 Level",
+        "photo": "/placeholder.svg?height=300&width=300",
+        "shortBio": "Representing the voice of 100 level students."
+      },
+      {
+        "id": "sen-100-cs",
+        "name": "Ibrahim Musa",
+        "position": "Computer Science Senator",
+        "department": "100 Level Computer Science",
+        "photo": "/placeholder.svg?height=300&width=300",
+        "shortBio": "Bridging CS students with BUCC opportunities."
+      }
+    ],
+    "200": [
+      {
+        "id": "sen-200-cr",
+        "name": "Blessing Okoro",
+        "position": "Class Representative",
+        "department": "200 Level",
+        "photo": "/placeholder.svg?height=300&width=300",
+        "shortBio": "Ensuring 200 level voices are heard."
+      },
+      {
+        "id": "sen-200-swe",
+        "name": "Tunde Bakare",
+        "position": "Software Engineering Senator",
+        "department": "200 Level Software Engineering",
+        "photo": "/placeholder.svg?height=300&width=300",
+        "shortBio": "Connecting SWE students with projects and mentorship."
+      }
+    ],
+    "300": [
+      {
+        "id": "sen-300-cr",
+        "name": "Amaka Obi",
+        "position": "Class Representative",
+        "department": "300 Level",
+        "photo": "/placeholder.svg?height=300&width=300",
+        "shortBio": "Leading 300 level engagement initiatives."
+      },
+      {
+        "id": "sen-300-it",
+        "name": "Mohammed Yusuf",
+        "position": "Information Technology Senator",
+        "department": "300 Level Information Technology",
+        "photo": "/placeholder.svg?height=300&width=300",
+        "shortBio": "Empowering IT students through BUCC programs."
+      }
+    ],
+    "400": [
+      {
+        "id": "sen-400-cr",
+        "name": "Grace Eze",
+        "position": "Class Representative",
+        "department": "400 Level",
+        "photo": "/placeholder.svg?height=300&width=300",
+        "shortBio": "Preparing final year students for industry transition."
+      },
+      {
+        "id": "sen-400-cyber",
+        "name": "Femi Oladipo",
+        "position": "Cybersecurity Senator",
+        "department": "400 Level Cybersecurity",
+        "photo": "/placeholder.svg?height=300&width=300",
+        "shortBio": "Building cybersecurity awareness and skills."
+      }
+    ]
+  },
+  "committees": {
+    "development": {
+      "name": "Development Team",
+      "description": "Building products that solve real problems on campus and beyond.",
+      "members": [
+        {
+          "id": "dev-lead",
+          "name": "Kehinde Afolabi",
+          "role": "Dev Team Lead",
+          "photo": "/placeholder.svg?height=300&width=300",
+          "department": "300L Software Engineering"
+        },
+        {
+          "id": "frontend-lead",
+          "name": "Zainab Hassan",
+          "role": "Frontend Lead",
+          "photo": "/placeholder.svg?height=300&width=300",
+          "department": "300L Computer Science"
+        },
+        {
+          "id": "backend-lead",
+          "name": "Chidi Okoye",
+          "role": "Backend Lead",
+          "photo": "/placeholder.svg?height=300&width=300",
+          "department": "400L Computer Science"
+        }
+      ]
+    },
+    "media": {
+      "name": "Media & Communications",
+      "description": "Telling BUCC's story through compelling content and design.",
+      "members": [
+        {
+          "id": "media-lead",
+          "name": "Tolani Adebisi",
+          "role": "Media Lead",
+          "photo": "/placeholder.svg?height=300&width=300",
+          "department": "300L Mass Communication"
+        },
+        {
+          "id": "graphics-lead",
+          "name": "Emeka Nnamdi",
+          "role": "Graphics Lead",
+          "photo": "/placeholder.svg?height=300&width=300",
+          "department": "200L Computer Science"
+        }
+      ]
+    },
+    "welfare": {
+      "name": "Welfare Committee",
+      "description": "Ensuring every member feels supported and valued.",
+      "members": [
+        {
+          "id": "welfare-lead",
+          "name": "Rahma Ibrahim",
+          "role": "Welfare Lead",
+          "photo": "/placeholder.svg?height=300&width=300",
+          "department": "300L Information Technology"
+        }
+      ]
+    }
+  }
+}
