@@ -52,13 +52,6 @@ export default function Hero() {
 
         <ScrollFadeIn delay={400}>
           <div className="flex flex-col md:flex-row gap-3 md:gap-4 mb-8 md:mb-12 w-full md:w-auto justify-center lg:justify-start">
-            <a href="/join" className="cursor-target flex items-center justify-center gap-2 px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold transition-colors relative">
-              <span className="absolute top-0 left-0 w-3 h-3 border-t-2 border-l-2 border-blue-400 pointer-events-none" />
-              <span className="absolute bottom-0 right-0 w-3 h-3 border-b-2 border-r-2 border-blue-400 pointer-events-none" />
-              <UserGroupIcon className="w-5 h-5" />
-              <span>Join the Movement</span>
-            </a>
-
             <a href="/partner" className="cursor-target flex items-center justify-center gap-2 px-6 py-3 bg-transparent border-2 border-white text-white font-semibold hover:bg-white/10 transition-colors relative">
               <span className="absolute top-0 left-0 w-3 h-3 border-t-2 border-l-2 border-white pointer-events-none" />
               <span className="absolute bottom-0 right-0 w-3 h-3 border-b-2 border-r-2 border-white pointer-events-none" />

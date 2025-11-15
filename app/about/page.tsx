@@ -607,14 +607,6 @@ export default function AboutPage() {
                   </p>
                 </div>
 
-                <a href="/join" className="cursor-target group w-full md:w-auto px-12 py-6 bg-blue-600 hover:bg-blue-700 text-white font-black text-xl md:text-2xl transition-all duration-300 relative overflow-hidden flex items-center justify-center">
-                  <span className="relative z-10 flex items-center justify-center gap-3">
-                    Join BUCC Today
-                    <RocketLaunchIcon className="w-7 h-7 group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
-                  </span>
-                  <div className="absolute inset-0 bg-gray-900 transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left duration-300" />
-                </a>
-
                 <p className="mt-8 text-sm text-gray-700 font-semibold">
                   ↳ Join 500+ students building the future. Right here. Right now.
                 </p>
