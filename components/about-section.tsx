@@ -50,11 +50,6 @@ export default function AboutSection() {
 
             <ScrollFadeIn delay={0.1}>
               <div className="flex flex-col gap-3 mb-8 md:mb-10">
-                <a href="/join" className="cursor-target flex items-center justify-center gap-2 px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold transition-colors relative w-full">
-                  <span className="absolute top-0 left-0 w-3 h-3 border-t-2 border-l-2 border-blue-400 pointer-events-none" />
-                  <span className="absolute bottom-0 right-0 w-3 h-3 border-b-2 border-r-2 border-blue-400 pointer-events-none" />
-                  <span>Join Us</span>
-                </a>
                 <a href="/about" className="cursor-target flex items-center justify-center gap-2 px-6 py-3 bg-black border-2 border-black text-white font-semibold hover:bg-gray-800 transition-colors relative w-full">
                   <span className="absolute top-0 left-0 w-3 h-3 border-t-2 border-l-2 border-gray-600 pointer-events-none" />
                   <span className="absolute bottom-0 right-0 w-3 h-3 border-b-2 border-r-2 border-gray-600 pointer-events-none" />

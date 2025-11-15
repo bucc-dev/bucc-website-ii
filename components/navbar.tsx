@@ -79,7 +79,7 @@ export default function Navbar() {
           <Link href="/join" className="hidden md:flex cursor-target items-center justify-center gap-3 px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold transition-colors relative">
             <span className="absolute top-0 left-0 w-3 h-3 border-t-2 border-l-2 border-blue-400 pointer-events-none" />
             <span className="absolute bottom-0 right-0 w-3 h-3 border-b-2 border-r-2 border-blue-400 pointer-events-none" />
-            <span>Enroll Now</span>
+            <span>Partner with Us</span>
             <div className="bg-white rounded-md p-1.5 flex items-center justify-center">
               <ArrowRightIcon className="w-4 h-4 text-blue-600" />
             </div>
@@ -127,7 +127,7 @@ export default function Navbar() {
               >
                 <span className="absolute top-0 left-0 w-3 h-3 border-t-2 border-l-2 border-blue-400 pointer-events-none" />
                 <span className="absolute bottom-0 right-0 w-3 h-3 border-b-2 border-r-2 border-blue-400 pointer-events-none" />
-                <span>Enroll Now</span>
+                <span>Partner with Us</span>
                 <div className="bg-white rounded-md p-1.5 flex items-center justify-center">
                   <ArrowRightIcon className="w-4 h-4 text-blue-600" />
                 </div>

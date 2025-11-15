@@ -373,12 +373,6 @@ export default function LeadershipPage() {
         </div>
 
         <div className="max-w-6xl mx-auto text-center relative z-10">
-          <ScrollFadeIn>
-            <div className="inline-block px-6 py-2 bg-blue-500/20 border border-blue-400/30 mb-8">
-              <p className="text-blue-300 font-bold uppercase tracking-widest text-sm">JOIN THE MOVEMENT</p>
-            </div>
-          </ScrollFadeIn>
-
           <ScrollFadeIn delay={0.1}>
             <h2
               className="text-5xl md:text-6xl lg:text-7xl font-black text-white mb-8 leading-tight"

@@ -61,14 +61,6 @@ export default function CardSwapSection() {
                   BUCC offers three specialized departments dedicated to providing industry-leading education in
                   Computer Science, Software Engineering, and Information Technology.
                 </p>
-                <a
-                  href="/join"
-                  className="cursor-target inline-flex items-center justify-center gap-2 px-8 py-4 bg-blue-600 hover:bg-blue-700 text-white font-semibold transition-colors relative w-fit"
-                >
-                  <span className="absolute top-0 left-0 w-3 h-3 border-t-2 border-l-2 border-blue-400 pointer-events-none" />
-                  <span className="absolute bottom-0 right-0 w-3 h-3 border-b-2 border-r-2 border-blue-400 pointer-events-none" />
-                  <span>Join BUCC</span>
-                </a>
               </div>
             </ScrollFadeIn>
 
@@ -169,7 +161,6 @@ export default function CardSwapSection() {
               </div>
             ) : (
               <>
-                <h3 className="text-2xl font-bold text-black mb-6">Join BUCC</h3>
                 <form onSubmit={handleSubmit} className="space-y-4">
                   <div>
                     <label className="block text-sm font-medium text-gray-700 mb-2">Full Name</label>
